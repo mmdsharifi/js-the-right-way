@@ -67,54 +67,54 @@
     ]
   },
   "gettingStarted": {
-    "title":"GETTING STARTED",
+    "title":"شروع",
     "text":"{{@link=partials/getting-started.html}}"
   },
   "codeStyle": {
-    "title":"JS CODE STYLE",
+    "title":"استایل کد جاوااسکریپت",
     "text":"{{@link=partials/code-style.html}}"
   },
   "goodParts":{
-    "title":"THE GOOD PARTS",
+    "title":"قسمت های خوب",
     "text":"{{@link=partials/good-parts.html}}"
   },
   "patterns":{
-    "title":"PATTERNS",
+    "title":"الگو ها",
     "text":"{{@link=partials/patterns.html}}"
   },
   "testingTools":{
-    "title":"TESTING TOOLS",
+    "title":"ابزارهای تست",
     "text":"{{@link=partials/testing-tools.html}}",
     "links":[
         {
           "name":"Mocha",
           "url":"http://mochajs.org",
-          "description":"Maintained by <a target=\"_blank\" href=\"https://github.com/visionmedia\">TJ Holowaychuk</a>"
+          "description":"نگه داری توسط <a target=\"_blank\" href=\"https://github.com/visionmedia\">TJ Holowaychuk</a>"
         },
         {
           "name":"QUnit",
           "url":"http://qunitjs.com",
-          "description":"Maintained by <a target=\"_blank\" href=\"https://github.com/jquery\">jQuery</a>"
+          "description":"نگه داری توسط <a target=\"_blank\" href=\"https://github.com/jquery\">jQuery</a>"
         },
         {
           "name":"Jasmine",
           "url":"https://github.com/pivotal/jasmine",
-          "description":"Maintained by <a target=\"_blank\" href=\"https://github.com/pivotal/jasmine\">Pivotal Labs</a>"
+          "description":"نگه داری توسط <a target=\"_blank\" href=\"https://github.com/pivotal/jasmine\">Pivotal Labs</a>"
         },
         {
           "name":"Karma",
           "url":"http://karma-runner.github.io/",
-          "description":"Maintained by the team behind AngularJS. Mostly by <a target=\"_blank\" href=\"https://github.com/vojtajina\">Vojta Jina</a>"
+          "description":"نگه داری توسط the team behind AngularJS. Mostly by <a target=\"_blank\" href=\"https://github.com/vojtajina\">Vojta Jina</a>"
         },
         {
           "name":"Intern",
           "url":"http://theintern.io",
-          "description":"Maintained by <a target=\"_blank\" href=\"http://www.sitepen.com\">Sitepen</a>"
+          "description":"نگه داری توسط <a target=\"_blank\" href=\"http://www.sitepen.com\">Sitepen</a>"
         },
         {
           "name":"Istanbul",
           "url":"http://gotwarlost.github.io/istanbul",
-          "description":"A JavaScript code coverage tool written in JavaScript, maintained by <a target=\"_blank\" href=\"https://github.com/gotwarlost\">Krishnan Anantheswaran</a>"
+          "description":"A JavaScript code coverage tool written in JavaScript, نگه داری توسط <a target=\"_blank\" href=\"https://github.com/gotwarlost\">Krishnan Anantheswaran</a>"
         },
         {
           "name":"Sinon.JS",
@@ -124,17 +124,17 @@
         {
           "name":"DexterJS",
           "url":"https://github.com/leobalter/DexterJS",
-          "description":"A test helper to mock functions and the XHR object, maintained by <a target=\"_blank\" href=\"http://leobalter.github.io\">Leo Balter</a>"
+          "description":"A test helper to mock functions and the XHR object, نگه داری توسط <a target=\"_blank\" href=\"http://leobalter.github.io\">Leo Balter</a>"
         },
         {
           "name":"AVA",
           "url":"https://github.com/sindresorhus/ava",
-          "description":"Test runner with asynchronous tests, maintained by <a target=\"_blank\" href=\"https://twitter.com/sindresorhus\">Sindre Sorhus</a>"
+          "description":"Test runner with asynchronous tests, نگه داری توسط <a target=\"_blank\" href=\"https://twitter.com/sindresorhus\">Sindre Sorhus</a>"
         }
     ]
   },
   "frameworks":{
-    "title":"FRAMEWORKS",
+    "title":"فریمورک ها",
     "cat":[
       {
         "title":"GENERAL PURPOSE",
@@ -299,7 +299,7 @@
     ]
   },
   "gameEngines":{
-    "title":"GAME ENGINES",
+    "title":"متور های بازی",
     "links":[
       {
         "name":"MelonJS",
@@ -329,7 +329,7 @@
       {
         "name":"Phaser",
         "url":"http://phaser.io",
-        "description":"Phaser is based heavily on <a target=\"_blank\" href=\"http://www.flixel.org\">Flixel</a>. It is maintained by Richard Davey (<a target=\"_blank\" href=\"http://www.photonstorm.com/\">Photon Storm</a>) who has been very active in the HTML5 community for years."
+        "description":"Phaser is based heavily on <a target=\"_blank\" href=\"http://www.flixel.org\">Flixel</a>. It is نگه داری توسط Richard Davey (<a target=\"_blank\" href=\"http://www.photonstorm.com/\">Photon Storm</a>) who has been very active in the HTML5 community for years."
       },
       {
         "name":"Goo",
@@ -364,7 +364,7 @@
     ]
   },
   "news":{
-    "title":"News",
+    "title":"تازه ها",
     "cat":[
       {
         "title":"Websites",
@@ -412,7 +412,7 @@
         ]
       },
       {
-        "title":"Newsletter",
+        "title":"خبرنامه ها",
         "links":[
           {
             "name":"JavaScript Weekly",
@@ -469,7 +469,7 @@
     ]
   },
   "reading":{
-    "title":"Reading",
+    "title":"خواندنی ها",
     "cat":[
       {
         "title":"Articles",
@@ -529,7 +529,7 @@
         ]
       },
       {
-        "title":"Books",
+        "title":"کتاب ها",
         "credit":true,
         "box":false,
         "links":[
@@ -651,7 +651,7 @@
         ]
       },
       {
-        "title":"Free E-Books",
+        "title":"کتاب های الکترونیکی رایگان",
         "credit":false,
         "box":true,
         "links":[
@@ -668,7 +668,7 @@
         ]
       },
       {
-        "title":"Portals",
+        "title":"پرتال ها",
         "credit":false,
         "box":true,
         "links":[
@@ -722,7 +722,7 @@
     ]
   },
   "podcasts":{
-    "title":"Podcasts",
+    "title":"پادکست ها",
     "links":[
       {
         "name":"Ember Hot Seat",
@@ -762,7 +762,7 @@
     ]
   },
   "screencasts":{
-    "title":"Screencasts",
+    "title":"فیلم های آموزشی",
     "links":[
       {
         "name":"Egghead",
@@ -791,10 +791,10 @@
     ]
   },
   "whoToFollow":{
-    "title":"Who To Follow"
+    "title":"چه کسانی را فالو کنیم؟"
   },
   "paasProviders":{
-    "title":"PaaS Provider",
+    "title":"فراهم کنندگان سرویس",
     "links":[
       {
         "name":"Heroku",
@@ -829,7 +829,7 @@
     ]
   },
   "helpers":{
-    "title":"Helpers",
+    "title":"کمک کننده ها",
     "links":[
       {
         "name":"npm",
@@ -900,9 +900,9 @@
     ]
   },
   "footer":{
-    "credit":"Created and maintained by",
-    "contributors":"Contributors",
-    "contribDesc":"This project wouldn't exist without these amazing contributors. Thank you guys for making this real!",
+    "credit":"Created and نگه داری توسط",
+    "contributors":"مشارکت کنندگان",
+    "contribDesc":"پروژه به وجود نمی آمد مگر با کمک این مشارکت کننده های خفن! از همه به وجود آورندگان این پروژه متشکریم!",
     "licence":"{{@link=partials/licence.html}}"
   },
   "languages": [
